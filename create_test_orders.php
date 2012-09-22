@@ -177,8 +177,3 @@ function getProducts() {
 
     return $collection;
 }
-
-
-
-
-
